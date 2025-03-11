@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<module external.linked.project.id="Test:test" external.linked.project.path="$MODULE_DIR$/../../Test" external.root.project.path="$MODULE_DIR$/../../Test" external.system.id="GRADLE" external.system.module.group="org.example" external.system.module.type="sourceSet" external.system.module.version="1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
+<module external.linked.project.id="test:test" external.linked.project.path="$MODULE_DIR$/../../test" external.root.project.path="$MODULE_DIR$/../../Test" external.system.id="GRADLE" external.system.module.group="ro.mpp2024" external.system.module.type="sourceSet" external.system.module.version="1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
   <component name="NewModuleRootManager">
-    <output-test url="file://$MODULE_DIR$/../../Test/build/classes/java/test" />
+    <output-test url="file://$MODULE_DIR$/../../test/build/classes/java/test" />
     <exclude-output />
-    <content url="file://$MODULE_DIR$/../../Test/src/test">
-      <sourceFolder url="file://$MODULE_DIR$/../../Test/src/test/java" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../../Test/src/test/resources" type="java-test-resource" />
+    <content url="file://$MODULE_DIR$/../../test/src/test">
+      <sourceFolder url="file://$MODULE_DIR$/../../test/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../test/src/test/resources" type="java-test-resource" />
     </content>
-    <orderEntry type="jdk" jdkName="23" jdkType="JavaSDK" />
+    <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="Test.main" />
+    <orderEntry type="module" module-name="test.main" />
     <orderEntry type="library" name="Gradle: org.junit.jupiter:junit-jupiter:5.10.0" level="project" />
     <orderEntry type="library" name="Gradle: org.junit.jupiter:junit-jupiter-params:5.10.0" level="project" />
     <orderEntry type="library" name="Gradle: org.junit.jupiter:junit-jupiter-api:5.10.0" level="project" />
@@ -19,5 +19,5 @@
     <orderEntry type="library" scope="RUNTIME" name="Gradle: org.junit.jupiter:junit-jupiter-engine:5.10.0" level="project" />
     <orderEntry type="library" scope="RUNTIME" name="Gradle: org.junit.platform:junit-platform-engine:1.10.0" level="project" />
   </component>
-  <component name="TestModuleProperties" production-module="Test.main" />
+  <component name="TestModuleProperties" production-module="test.main" />
 </module>

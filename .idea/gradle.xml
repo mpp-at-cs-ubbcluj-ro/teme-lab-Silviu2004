@@ -4,8 +4,16 @@
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Lab3" />
+        <option name="gradleJvm" value="corretto-22" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/Lab3" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
         <option name="externalProjectPath" value="$PROJECT_DIR$/StartGradle" />
-        <option name="gradleHome" value="" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/StartGradle" />
@@ -13,11 +21,27 @@
         </option>
       </GradleProjectSettings>
       <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/TemaLab3" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/TemaLab3" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
         <option name="externalProjectPath" value="$PROJECT_DIR$/Test" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/test" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/test" />
         <option name="gradleHome" value="" />
         <option name="modules">
           <set>
-            <option value="$PROJECT_DIR$/Test" />
+            <option value="$PROJECT_DIR$/test" />
           </set>
         </option>
       </GradleProjectSettings>

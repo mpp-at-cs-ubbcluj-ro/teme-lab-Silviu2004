@@ -2,12 +2,19 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
+      <module name="Lab3" target="23" />
+      <module name="Lab3.main" target="23" />
+      <module name="Lab3.test" target="23" />
       <module name="StartGradle" target="23" />
       <module name="StartGradle.main" target="23" />
       <module name="StartGradle.test" target="23" />
+      <module name="TemaLab3" target="23" />
+      <module name="TemaLab3.main" target="23" />
+      <module name="TemaLab3.test" target="23" />
+      <module name="test" target="23" />
       <module name="Test" target="23" />
-      <module name="Test.main" target="23" />
-      <module name="Test.test" target="23" />
+      <module name="test.main" target="23" />
+      <module name="test.test" target="23" />
     </bytecodeTargetLevel>
   </component>
 </project>
