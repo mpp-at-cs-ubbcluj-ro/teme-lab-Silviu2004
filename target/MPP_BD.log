@@ -1,0 +1,115 @@
+11 Mar 2025 13:08:03,046 INFO  ro.mpp2024.CarsDBRepository 16 <init> - Initializing CarsDBRepository with properties: {} 
+11 Mar 2025 13:08:03,077 TRACE ro.mpp2024.CarsDBRepository 74 add - Enter saving task Id=0 Tesla Model S 2019
+11 Mar 2025 13:08:03,079 TRACE ro.mpp2024.JdbcUtils 48 getConnection - Enter
+11 Mar 2025 13:08:03,079 TRACE ro.mpp2024.JdbcUtils 25 getNewConnection - Enter
+11 Mar 2025 13:08:03,080 INFO  ro.mpp2024.JdbcUtils 30 getNewConnection - trying to connect to database ... null
+11 Mar 2025 13:08:03,081 INFO  ro.mpp2024.JdbcUtils 31 getNewConnection - user: null
+11 Mar 2025 13:08:03,082 INFO  ro.mpp2024.JdbcUtils 32 getNewConnection - pass: null
+11 Mar 2025 13:08:03,086 ERROR ro.mpp2024.JdbcUtils 41 getNewConnection - java.sql.SQLException: The url cannot be null
+11 Mar 2025 13:08:03,090 TRACE ro.mpp2024.JdbcUtils 57 getConnection - Exit
+11 Mar 2025 13:09:35,815 INFO  ro.mpp2024.CarsDBRepository 16 <init> - Initializing CarsDBRepository with properties: {} 
+11 Mar 2025 13:09:35,858 TRACE ro.mpp2024.CarsDBRepository 74 add - Enter saving task Id=0 Tesla Model S 2019
+11 Mar 2025 13:09:35,860 TRACE ro.mpp2024.JdbcUtils 48 getConnection - Enter
+11 Mar 2025 13:09:35,862 TRACE ro.mpp2024.JdbcUtils 25 getNewConnection - Enter
+11 Mar 2025 13:09:35,863 INFO  ro.mpp2024.JdbcUtils 30 getNewConnection - trying to connect to database ... null
+11 Mar 2025 13:09:35,865 INFO  ro.mpp2024.JdbcUtils 31 getNewConnection - user: null
+11 Mar 2025 13:09:35,866 INFO  ro.mpp2024.JdbcUtils 32 getNewConnection - pass: null
+11 Mar 2025 13:09:35,873 ERROR ro.mpp2024.JdbcUtils 41 getNewConnection - java.sql.SQLException: The url cannot be null
+11 Mar 2025 13:09:35,876 TRACE ro.mpp2024.JdbcUtils 57 getConnection - Exit
+11 Mar 2025 13:12:02,666 INFO  ro.mpp2024.CarsDBRepository 16 <init> - Initializing CarsDBRepository with properties: {} 
+11 Mar 2025 13:12:02,682 TRACE ro.mpp2024.CarsDBRepository 74 add - Enter saving task Id=0 Tesla Model S 2019
+11 Mar 2025 13:12:02,682 TRACE ro.mpp2024.JdbcUtils 48 getConnection - Enter
+11 Mar 2025 13:12:02,683 TRACE ro.mpp2024.JdbcUtils 25 getNewConnection - Enter
+11 Mar 2025 13:12:02,683 INFO  ro.mpp2024.JdbcUtils 30 getNewConnection - trying to connect to database ... null
+11 Mar 2025 13:12:02,683 INFO  ro.mpp2024.JdbcUtils 31 getNewConnection - user: null
+11 Mar 2025 13:12:02,684 INFO  ro.mpp2024.JdbcUtils 32 getNewConnection - pass: null
+11 Mar 2025 13:12:02,687 ERROR ro.mpp2024.JdbcUtils 41 getNewConnection - java.sql.SQLException: The url cannot be null
+11 Mar 2025 13:12:02,687 TRACE ro.mpp2024.JdbcUtils 57 getConnection - Exit
+11 Mar 2025 13:18:02,062 INFO  ro.mpp2024.CarsDBRepository 16 <init> - Initializing CarsDBRepository with properties: {} 
+11 Mar 2025 13:18:02,077 TRACE ro.mpp2024.CarsDBRepository 74 add - Enter saving task Id=0 Tesla Model S 2019
+11 Mar 2025 13:18:02,078 TRACE ro.mpp2024.JdbcUtils 48 getConnection - Enter
+11 Mar 2025 13:18:02,079 TRACE ro.mpp2024.JdbcUtils 25 getNewConnection - Enter
+11 Mar 2025 13:18:02,079 INFO  ro.mpp2024.JdbcUtils 30 getNewConnection - trying to connect to database ... null
+11 Mar 2025 13:18:02,080 INFO  ro.mpp2024.JdbcUtils 31 getNewConnection - user: null
+11 Mar 2025 13:18:02,080 INFO  ro.mpp2024.JdbcUtils 32 getNewConnection - pass: null
+11 Mar 2025 13:18:02,083 ERROR ro.mpp2024.JdbcUtils 41 getNewConnection - java.sql.SQLException: The url cannot be null
+11 Mar 2025 13:18:02,084 TRACE ro.mpp2024.JdbcUtils 57 getConnection - Exit
+11 Mar 2025 13:18:42,314 INFO  ro.mpp2024.CarsDBRepository 16 <init> - Initializing CarsDBRepository with properties: {} 
+11 Mar 2025 13:18:42,331 TRACE ro.mpp2024.CarsDBRepository 74 add - Enter saving task Id=0 Tesla Model S 2019
+11 Mar 2025 13:18:42,332 TRACE ro.mpp2024.JdbcUtils 48 getConnection - Enter
+11 Mar 2025 13:18:42,333 TRACE ro.mpp2024.JdbcUtils 25 getNewConnection - Enter
+11 Mar 2025 13:18:42,333 INFO  ro.mpp2024.JdbcUtils 30 getNewConnection - trying to connect to database ... null
+11 Mar 2025 13:18:42,334 INFO  ro.mpp2024.JdbcUtils 31 getNewConnection - user: null
+11 Mar 2025 13:18:42,335 INFO  ro.mpp2024.JdbcUtils 32 getNewConnection - pass: null
+11 Mar 2025 13:18:42,337 ERROR ro.mpp2024.JdbcUtils 41 getNewConnection - java.sql.SQLException: The url cannot be null
+11 Mar 2025 13:18:42,339 TRACE ro.mpp2024.JdbcUtils 57 getConnection - Exit
+11 Mar 2025 13:20:19,797 INFO  ro.mpp2024.CarsDBRepository 16 <init> - Initializing CarsDBRepository with properties: {} 
+11 Mar 2025 13:20:19,818 TRACE ro.mpp2024.CarsDBRepository 74 add - Enter saving task Id=0 Tesla Model S 2019
+11 Mar 2025 13:20:19,819 TRACE ro.mpp2024.JdbcUtils 48 getConnection - Enter
+11 Mar 2025 13:20:19,820 TRACE ro.mpp2024.JdbcUtils 25 getNewConnection - Enter
+11 Mar 2025 13:20:19,820 INFO  ro.mpp2024.JdbcUtils 30 getNewConnection - trying to connect to database ... null
+11 Mar 2025 13:20:19,822 INFO  ro.mpp2024.JdbcUtils 31 getNewConnection - user: null
+11 Mar 2025 13:20:19,822 INFO  ro.mpp2024.JdbcUtils 32 getNewConnection - pass: null
+11 Mar 2025 13:20:19,825 ERROR ro.mpp2024.JdbcUtils 41 getNewConnection - java.sql.SQLException: The url cannot be null
+11 Mar 2025 13:20:19,826 TRACE ro.mpp2024.JdbcUtils 57 getConnection - Exit
+11 Mar 2025 13:22:13,291 INFO  ro.mpp2024.CarsDBRepository 16 <init> - Initializing CarsDBRepository with properties: {} 
+11 Mar 2025 13:22:13,303 TRACE ro.mpp2024.CarsDBRepository 74 add - Enter saving task Id=0 Tesla Model S 2019
+11 Mar 2025 13:22:13,304 TRACE ro.mpp2024.JdbcUtils 48 getConnection - Enter
+11 Mar 2025 13:22:13,304 TRACE ro.mpp2024.JdbcUtils 25 getNewConnection - Enter
+11 Mar 2025 13:22:13,304 INFO  ro.mpp2024.JdbcUtils 30 getNewConnection - trying to connect to database ... null
+11 Mar 2025 13:22:13,304 INFO  ro.mpp2024.JdbcUtils 31 getNewConnection - user: null
+11 Mar 2025 13:22:13,305 INFO  ro.mpp2024.JdbcUtils 32 getNewConnection - pass: null
+11 Mar 2025 13:22:13,307 ERROR ro.mpp2024.JdbcUtils 41 getNewConnection - java.sql.SQLException: The url cannot be null
+11 Mar 2025 13:22:13,307 TRACE ro.mpp2024.JdbcUtils 57 getConnection - Exit
+11 Mar 2025 13:23:37,387 INFO  ro.mpp2024.CarsDBRepository 16 <init> - Initializing CarsDBRepository with properties: {} 
+11 Mar 2025 13:23:37,398 TRACE ro.mpp2024.CarsDBRepository 74 add - Enter saving task Id=0 Tesla Model S 2019
+11 Mar 2025 13:23:47,667 INFO  ro.mpp2024.CarsDBRepository 16 <init> - Initializing CarsDBRepository with properties: {} 
+11 Mar 2025 13:23:47,712 TRACE ro.mpp2024.CarsDBRepository 74 add - Enter saving task Id=0 Tesla Model S 2019
+11 Mar 2025 13:24:18,596 INFO  ro.mpp2024.CarsDBRepository 16 <init> - Initializing CarsDBRepository with properties: {} 
+11 Mar 2025 13:24:18,624 TRACE ro.mpp2024.CarsDBRepository 74 add - Enter saving task Id=0 Tesla Model S 2019
+11 Mar 2025 13:25:08,149 INFO  ro.mpp2024.CarsDBRepository 16 <init> - Initializing CarsDBRepository with properties: {} 
+11 Mar 2025 13:25:08,178 TRACE ro.mpp2024.CarsDBRepository 74 add - Enter saving task Id=0 Tesla Model S 2019
+11 Mar 2025 13:26:18,565 INFO  ro.mpp2024.CarsDBRepository 16 <init> - Initializing CarsDBRepository with properties: {} 
+11 Mar 2025 13:26:18,614 TRACE ro.mpp2024.CarsDBRepository 74 add - Enter saving task Id=0 Tesla Model S 2019
+11 Mar 2025 13:27:06,815 INFO  ro.mpp2024.CarsDBRepository 16 <init> - Initializing CarsDBRepository with properties: {} 
+11 Mar 2025 13:27:06,836 TRACE ro.mpp2024.CarsDBRepository 74 add - Enter saving task Id=0 Tesla Model S 2019
+11 Mar 2025 13:28:54,151 INFO  ro.mpp2024.CarsDBRepository 16 <init> - Initializing CarsDBRepository with properties: {} 
+11 Mar 2025 13:28:54,179 TRACE ro.mpp2024.CarsDBRepository 74 add - Enter saving task Id=0 Tesla Model S 2019
+11 Mar 2025 13:29:14,152 INFO  ro.mpp2024.CarsDBRepository 16 <init> - Initializing CarsDBRepository with properties: {} 
+11 Mar 2025 13:29:14,194 TRACE ro.mpp2024.CarsDBRepository 74 add - Enter saving task Id=0 Tesla Model S 2019
+11 Mar 2025 13:31:20,303 INFO  ro.mpp2024.CarsDBRepository 16 <init> - Initializing CarsDBRepository with properties: {} 
+11 Mar 2025 13:31:20,313 TRACE ro.mpp2024.CarsDBRepository 74 add - Enter saving task Id=0 Tesla Model S 2019
+11 Mar 2025 13:32:22,563 INFO  ro.mpp2024.CarsDBRepository 16 <init> - Initializing CarsDBRepository with properties: {} 
+11 Mar 2025 13:32:22,574 TRACE ro.mpp2024.CarsDBRepository 74 add - Enter saving task Id=0 Tesla Model S 2019
+11 Mar 2025 13:33:26,008 INFO  ro.mpp2024.CarsDBRepository 16 <init> - Initializing CarsDBRepository with properties: {} 
+11 Mar 2025 13:33:26,031 TRACE ro.mpp2024.CarsDBRepository 74 add - Enter saving task Id=0 Tesla Model S 2019
+11 Mar 2025 13:34:00,298 INFO  ro.mpp2024.CarsDBRepository 16 <init> - Initializing CarsDBRepository with properties: {} 
+11 Mar 2025 13:34:00,318 TRACE ro.mpp2024.CarsDBRepository 74 add - Enter saving task Id=0 Tesla Model S 2019
+11 Mar 2025 13:34:21,533 INFO  ro.mpp2024.CarsDBRepository 16 <init> - Initializing CarsDBRepository with properties: {} 
+11 Mar 2025 13:34:21,583 TRACE ro.mpp2024.CarsDBRepository 74 add - Enter saving task Id=0 Tesla Model S 2019
+11 Mar 2025 13:34:43,007 INFO  ro.mpp2024.CarsDBRepository 16 <init> - Initializing CarsDBRepository with properties: {} 
+11 Mar 2025 13:34:43,036 TRACE ro.mpp2024.CarsDBRepository 74 add - Enter saving task Id=0 Tesla Model S 2019
+11 Mar 2025 13:36:06,283 INFO  ro.mpp2024.CarsDBRepository 16 <init> - Initializing CarsDBRepository with properties: {} 
+11 Mar 2025 13:36:06,311 TRACE ro.mpp2024.CarsDBRepository 74 add - Enter saving task Id=0 Tesla Model S 2019
+11 Mar 2025 13:37:16,669 INFO  ro.mpp2024.CarsDBRepository 16 <init> - Initializing CarsDBRepository with properties: {} 
+11 Mar 2025 13:37:16,692 TRACE ro.mpp2024.CarsDBRepository 74 add - Enter saving task Id=0 Tesla Model S 2019
+11 Mar 2025 13:37:45,847 INFO  ro.mpp2024.CarsDBRepository 16 <init> - Initializing CarsDBRepository with properties: {jdbc.user=yourUsername, jdbc.url=jdbc:sqlite:D:MPPcars.db, jdbc.pass=yourPassword} 
+11 Mar 2025 13:37:45,874 TRACE ro.mpp2024.CarsDBRepository 74 add - Enter saving task Id=0 Tesla Model S 2019
+11 Mar 2025 13:39:13,558 INFO  ro.mpp2024.CarsDBRepository 16 <init> - Initializing CarsDBRepository with properties: {jdbc.user=yourUsername, jdbc.url=jdbc:sqlite:D:\MPP\cars.db, jdbc.pass=yourPassword} 
+11 Mar 2025 13:39:13,592 TRACE ro.mpp2024.CarsDBRepository 74 add - Enter saving task Id=0 Tesla Model S 2019
+11 Mar 2025 13:39:54,753 INFO  ro.mpp2024.CarsDBRepository 16 <init> - Initializing CarsDBRepository with properties: {jdbc.password=yourPassword, jdbc.user=yourUsername, jdbc.url=jdbc:sqlite:D:\MPP\cars.db} 
+11 Mar 2025 13:39:54,781 TRACE ro.mpp2024.CarsDBRepository 74 add - Enter saving task Id=0 Tesla Model S 2019
+11 Mar 2025 13:39:55,296 TRACE ro.mpp2024.CarsDBRepository 81 add - Saved 1 instances
+11 Mar 2025 13:39:55,297 TRACE ro.mpp2024.CarsDBRepository 86 add - Exit
+11 Mar 2025 13:39:55,298 TRACE ro.mpp2024.CarsDBRepository 109 findAll - Enter
+11 Mar 2025 13:39:55,302 TRACE ro.mpp2024.CarsDBRepository 128 findAll - Exit with([Id=1 Tesla Model S 2019])
+11 Mar 2025 13:39:55,303 TRACE ro.mpp2024.CarsDBRepository 22 findByManufacturer - Enter finding cars by manufacturer Tesla
+11 Mar 2025 13:39:55,304 TRACE ro.mpp2024.CarsDBRepository 41 findByManufacturer - Exit with([Id=1 Tesla Model S 2019])
+11 Mar 2025 13:40:27,295 INFO  ro.mpp2024.CarsDBRepository 16 <init> - Initializing CarsDBRepository with properties: {jdbc.password=yourPassword, jdbc.user=yourUsername, jdbc.url=jdbc:sqlite:D:\MPP\cars.db} 
+11 Mar 2025 13:40:27,306 TRACE ro.mpp2024.CarsDBRepository 74 add - Enter saving task Id=0 Tesla Model S 2019
+11 Mar 2025 13:40:27,715 TRACE ro.mpp2024.CarsDBRepository 81 add - Saved 1 instances
+11 Mar 2025 13:40:27,717 TRACE ro.mpp2024.CarsDBRepository 86 add - Exit
+11 Mar 2025 13:40:27,717 TRACE ro.mpp2024.CarsDBRepository 109 findAll - Enter
+11 Mar 2025 13:40:27,722 TRACE ro.mpp2024.CarsDBRepository 128 findAll - Exit with([Id=1 Tesla Model S 2019, Id=2 Tesla Model S 2019])
+11 Mar 2025 13:40:27,723 TRACE ro.mpp2024.CarsDBRepository 22 findByManufacturer - Enter finding cars by manufacturer Tesla
+11 Mar 2025 13:40:27,724 TRACE ro.mpp2024.CarsDBRepository 41 findByManufacturer - Exit with([Id=1 Tesla Model S 2019, Id=2 Tesla Model S 2019])
